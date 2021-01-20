@@ -4,3 +4,8 @@ class Test
         @hello = 'Hello everyone!'
         @yoo = 'Yoooo!'
     end
+end
+class ToPush(){
+
+    
+}
